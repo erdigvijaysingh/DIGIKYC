@@ -1,2 +1,0 @@
-# DIGIKYC
-CODE FOR 
